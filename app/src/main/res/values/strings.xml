@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">ComputePrice</string>
+    <string name="fruits_string">Fruits</string>
+    <string name="apples_string">Apples (12.55 PHP)</string>
+    <string name="oranges_string">Oranges (10.25 PHP)</string>
+    <string name="total_string">Total (PHP)</string>
+    <string name="compute_string">Compute</string>
+</resources>
